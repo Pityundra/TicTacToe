@@ -1,0 +1,79 @@
+body{
+    background-image: url("hatter.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: whitesmoke;
+    text-shadow: black;
+    margin-top: 110px;
+    margin-left: 512px;
+    font-size: 32px;
+}
+
+.fields {
+    background-color: #003366;
+    border: #990000 solid 3px;
+    color: #990000;
+    padding: 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 32px;
+    height: 120px;
+    width: 120px;
+
+}
+
+#restartBtn {
+    display: none;
+}
+
+#players {
+    white-space: nowrap;
+    overflow: auto;
+}
+#p1 {
+    left: 800px;
+    display: inline-block;
+    font-size: 24px;
+    color: whitesmoke;
+}
+
+#p2 {
+    left: 832px;
+    display: inline-block;
+    font-size: 24px;
+    color: whitesmoke;
+}
+
+#restartBtn{
+    position: absolute;
+    left: 66%;
+    top: 20%;
+    background: #003366;
+    color: whitesmoke;
+    height: 40px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+#startBtn{
+    position: absolute;
+    left: 59%;
+    top: 20%;
+    background: #003366;
+    color: whitesmoke;
+    height: 40px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+#timer{
+    position: absolute;
+    left: 54%;
+    top: 17%;
+    color: whitesmoke;
+    height: 40px;
+    width: 15px;
+    font-size: 24px;
+}

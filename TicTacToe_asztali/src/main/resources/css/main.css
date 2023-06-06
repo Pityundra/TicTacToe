@@ -1,0 +1,18 @@
+.mainPage {
+    -fx-background-image: url("hatter.jpeg");
+}
+
+.label{
+    -fx-text-fill: #c6e2ff;
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 20px;
+    -fx-text-alignment: center;
+}
+.gameModeButtons {
+    -fx-font-size: 24px;
+    -fx-background-color: #003366;
+    -fx-border-style: solid;
+    -fx-border-color: #c6e2ff;
+    -fx-border-radius: 1px;
+    -fx-text-fill: #c6e2ff;
+}

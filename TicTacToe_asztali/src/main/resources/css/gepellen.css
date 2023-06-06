@@ -1,0 +1,25 @@
+.pvePage {
+    -fx-background-image: url("hatter.jpeg");
+}
+.timer {
+     -fx-font-size: 24px;
+     -fx-text-fill: whitesmoke;
+ }
+
+.grid {
+    -fx-border-color: #990000;
+}
+
+.startButton {
+    -fx-text-fill: #c6e2ff;
+    -fx-background-color: #003366;
+}
+
+.gameButtons {
+    -fx-background-image: url("hatter.jpeg");
+    -fx-text-fill:  #ff0000;
+    -fx-border-color: #990000;
+    -fx-border-radius: 3px;
+    -fx-border-style: solid;
+}
+

@@ -1,0 +1,36 @@
+.gameOverAlert{
+    -fx-background-color: #990000;
+}
+.gameOverAlert > *.button-bar > *.container{
+    -fx-background-color: #c6e2ff;
+}
+.gameOverAlert > *.label.content{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+
+
+.nemMegfeleloIdo{
+    -fx-background-color: #990000;
+}
+.nemMegfeleloIdo > *.button-bar > *.container{
+    -fx-background-color: #c6e2ff;
+}
+.nemMegfeleloIdo > *.label.content{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+
+.megfeleloIdo{
+    -fx-background-color: #003366;
+    -fx-text-fill: #c6e2ff;
+}
+.megfeleloIdo > *.button-bar > *.container{
+    -fx-background-color: #c6e2ff;
+}
+.megfeleloIdo > *.label.content{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}

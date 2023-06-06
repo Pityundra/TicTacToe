@@ -1,0 +1,23 @@
+body{
+    background-image: url("hatter.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: whitesmoke;
+    text-shadow: black;
+    margin: 200px;
+}
+.gameModeButtons {
+    background: #003366;
+    color: whitesmoke;
+    height: 40px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+#timerTextDiv{
+    position: absolute;
+    top: 28%;
+    left: 680px;
+}

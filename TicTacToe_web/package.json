@@ -1,0 +1,8 @@
+{
+  "name": "TicTacToe_web",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "sqlite3": "^4.2.0"
+  }
+}

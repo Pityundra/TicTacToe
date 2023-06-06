@@ -1,0 +1,32 @@
+.fields {
+    background-color: #4CAF50;
+    border: 2px solid gray;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    height: 60px;
+    width: 60px;
+
+}
+
+#restartBtn {
+    display: none;
+}
+
+#players {
+    white-space: nowrap;
+    overflow: auto;
+}
+#p1 {
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+}
+
+#p2 {
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+}
